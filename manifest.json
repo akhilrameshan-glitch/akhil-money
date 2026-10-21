@@ -1,0 +1,10 @@
+{
+  "name": "Akhil Money",
+  "short_name": "Akhil Money",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#10251f",
+  "description": "Personal income, expense and account tracker",
+  "icons": []
+}
