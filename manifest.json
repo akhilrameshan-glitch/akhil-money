@@ -1,17 +1,1 @@
-{
-  "name": "Akhil Money",
-  "short_name": "Akhil Money",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#f3f6f4",
-  "theme_color": "#10251e",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"Akhil Money","short_name":"Akhil Money","start_url":"./","scope":"./","display":"standalone","background_color":"#f3f6fa","theme_color":"#102a43","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
