@@ -25,3 +25,7 @@ Upload `index.html`, `manifest.json`, `sw.js`, and `icon.svg` to the repository'
 ## Important data note
 
 Records are stored locally in the browser on each device. GitHub Pages publishes the app code, not your financial records. Use Settings → Backup and restore regularly. A backup from one device must be restored manually on another device.
+
+
+## App icon
+The app uses the custom emerald-and-gold Akhil Money icon for supported home-screen and installed-app icons. On iPhone, if the app was already added to the Home Screen, you may need to remove the old shortcut and add it again from Safari after the updated site is published to refresh the icon.
