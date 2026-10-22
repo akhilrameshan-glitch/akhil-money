@@ -1,4 +1,4 @@
-const CACHE_NAME = 'akhil-money-v10';
+const CACHE_NAME = 'akhil-money-v11';
 const APP_FILES = ['./', './index.html', './manifest.json', './icon.svg', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', event => {
   self.skipWaiting();
